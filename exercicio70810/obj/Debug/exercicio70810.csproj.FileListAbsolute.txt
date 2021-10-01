@@ -1,0 +1,15 @@
+C:\Users\USER\Source\Repos\exercicio70810\exercicio70810\bin\Debug\exercicio70810.exe.config
+C:\Users\USER\Source\Repos\exercicio70810\exercicio70810\bin\Debug\exercicio70810.exe
+C:\Users\USER\Source\Repos\exercicio70810\exercicio70810\bin\Debug\exercicio70810.pdb
+C:\Users\USER\Source\Repos\exercicio70810\exercicio70810\obj\Debug\exercicio70810.csproj.AssemblyReference.cache
+C:\Users\USER\Source\Repos\exercicio70810\exercicio70810\obj\Debug\exercicio70810.Form1.resources
+C:\Users\USER\Source\Repos\exercicio70810\exercicio70810\obj\Debug\exercicio70810.frmConsulta.resources
+C:\Users\USER\Source\Repos\exercicio70810\exercicio70810\obj\Debug\exercicio70810.frmInclusao.resources
+C:\Users\USER\Source\Repos\exercicio70810\exercicio70810\obj\Debug\exercicio70810.frmSobre.resources
+C:\Users\USER\Source\Repos\exercicio70810\exercicio70810\obj\Debug\exercicio70810.Properties.Resources.resources
+C:\Users\USER\Source\Repos\exercicio70810\exercicio70810\obj\Debug\exercicio70810.csproj.GenerateResource.cache
+C:\Users\USER\Source\Repos\exercicio70810\exercicio70810\obj\Debug\exercicio70810.csproj.CoreCompileInputs.cache
+C:\Users\USER\Source\Repos\exercicio70810\exercicio70810\obj\Debug\exercicio70810.exe
+C:\Users\USER\Source\Repos\exercicio70810\exercicio70810\obj\Debug\exercicio70810.pdb
+C:\Users\USER\Source\Repos\exercicio70810\exercicio70810\bin\Debug\clientes.mdf
+C:\Users\USER\Source\Repos\exercicio70810\exercicio70810\bin\Debug\clientes_log.ldf
